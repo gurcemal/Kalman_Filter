@@ -3,7 +3,7 @@
 In this video, we talked about Kalman Filter and how to use this filter.
 
 Kodlara erişmek için; || To download the code;
-https://github.com/gurcemal/Kalman_Filter
+[https://github.com/gurcemal/Kalman_Filter](https://youtu.be/scBNOtwPdA4)
 
 Malzemeler (Components):
 Arduıno Nano Board (x1)
